@@ -2,6 +2,10 @@
 This project was part of a course case study where I performed end-to-end churn analysis on a real client data. 
 This repository contains a single Jupyter Notebook with the all of the churn analysis I conducted. The notebook contains EDA, feature engineering, Random Forest baseline, evaluation, and feature importance.
 
+## Final recommendations based on model results
+<img width="621" height="350" alt="RecomPic" src="https://github.com/user-attachments/assets/dc8eefc2-f271-4b7c-aac7-c738c6bb4a4e" />
+
+
 I have not shared the full data files or the case study draft to comply with the confidentiality agreement of client as well as the provider.
 
 ## Files
